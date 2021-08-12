@@ -1,6 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name = "description" content = "personal website for olivia">
+  <script src = "script.js" defer></script>
   <title>olivia adamic</title>
   <link rel= "stylesheet"href = "styles.css">
 </head>
@@ -8,15 +9,29 @@
   <header>
     <nav>
       <ul>
-        <li><a href="index.html">HOME</a></li>
-        <li><a href="about.html">ABOUT ME</a></li>
-        <li><a href = "projects.html">PROJECTS</a></li>
+        <li data-tab-target = "#home"><a href="index.html">HOME</a></li>
+        <li data-tab-target = "#about"><a href="about.html">ABOUT ME</a></li>
+        <li data-tab-target = "#projects"><a href = "projects.html">PROJECTS</a></li>
       </ul>
     </nav>
   </header>
 <h1> Hello World! </h1>
   <p> This is the first attempt I am making to build my own portfolio website using github! Wish me luck! </p>
 <hr/>
+<div class = "tab content">
+  <div id = "HOME" data-tab-content>
+    <h1>HOME</h1>
+    <p>this is the home page</p>
+  </div>
+  <div id = "ABOUT" data-tab-content>
+    <h1>ABOUT</h1>
+    <p>nnice to meet you! im olivia :)</p>
+  </div>
+  <div id = "PROJECTS" data-tab-content>
+    <h1>PROJECTS</h1>
+    <p>this is the projects page</p>
+  </div>
+</div>
 <!--first time trying to upload from vs code to github-->
 
 </body>  
