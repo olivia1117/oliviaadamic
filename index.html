@@ -8,10 +8,10 @@
 <body>
   <header>
     <nav>
-      <ul>
-        <li data-tab-target = "#home"><a href="index.html">HOME</a></li>
-        <li data-tab-target = "#about"><a href="about.html">ABOUT ME</a></li>
-        <li data-tab-target = "#projects"><a href = "projects.html">PROJECTS</a></li>
+      <ul class = 'tabs'>
+        <li data-tab-target = "#home" class = 'active tab'><a href="index.html">HOME</a></li>
+        <li data-tab-target = "#about" class = 'tab'><a href="about.html">ABOUT ME</a></li>
+        <li data-tab-target = "#projects" class = 'tab'><a href = "projects.html">PROJECTS</a></li>
       </ul>
     </nav>
   </header>
@@ -19,7 +19,7 @@
   <p> This is the first attempt I am making to build my own portfolio website using github! Wish me luck! </p>
 <hr/>
 <div class = "tab content">
-  <div id = "HOME" data-tab-content>
+  <div id = "HOME" data-tab-content class = 'active'>
     <h1>HOME</h1>
     <p>this is the home page</p>
   </div>
