@@ -1,0 +1,6 @@
+Hello! This is my first post on my blog! I'm using this space to keep a record of all my progress I'm making in computer science and programming. 
+I was inspired to start documenting my journey because of various tech YouTubers I've watched. Most of them recommended that I should create a 
+person website and have a place to link my projects, talk a bit about myself, and even make short blog posts like this one. While many of them
+suggested starting off by using WordPress or SquareSpace to create a website, I wanted to try and learn about web design and development on my
+own a bit. So far, I haven't had much experience in HTML, CSS, and JS, but I plan to keep challenging myself to learn by doing as one of my 
+professors always recommends. Anyway, I hope you find my website interesting and maybe can take some inspiration from it as well! 
