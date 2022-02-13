@@ -1,7 +1,8 @@
 
 body{
-  background-color: #DAF9DA;
+  background-color: #2C5530;
   font-family: "Courier New", monospace;
+  color: #ffffff;
 }
 
 [data-tab-content]{
