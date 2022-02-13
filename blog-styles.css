@@ -3,17 +3,17 @@
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: white;
+  background: #739E82;
 }
 
 .mainimg {
-  background-color: #aaa;
+  background-color: #739E82;
   width: 100%;
   padding: 20px;
 }
 
 .card {
-  background-color: white;
+  background-color: #739E82;
   padding: 20px;
   margin-top: 20px;
 }
