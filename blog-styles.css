@@ -10,10 +10,13 @@
   background-color: #81B29A;
   width: 80%;
   padding: 10px;
+  height: 250px
 }
 
 .card {
   background-color: #F2CC8F;
   padding: 10px;
   margin-top: 15px;
+  height: 500px; 
+
 }
